@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ijeoyibo Egejuru's CV
 ---
-# Isaac Newton
+# Ijeoyibo Jennifer Egejuru
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
