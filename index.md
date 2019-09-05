@@ -55,7 +55,9 @@ __Lynnwood WA__
 
 
 __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
+
 Lead Program Manager
+
 ***Vetiva is a Pan-African Financial Services Company incorporated in Nigeria; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively***
 
 `2015-2017`
@@ -73,11 +75,23 @@ Lead Program Manager
 
 
 __1SOURCE TECHNOLOGY PARTNERS__, Lagos, Nigeria
-Business Intelligent Analyst
+
+Business Intelligence Analyst
+
 ***1source was founded in 2008 to serve as a single point of contact for the IT needs of businesses across West Africa.   
 At 1source, we deliver a full range of managed services; from tactical utility-level IT tasks such as help-desk, backup and hosting to full service outsourcing of your entire IT operation. 1source is the preferred single point of contact in complex, multi-vendor IT environments***
 
 `2013-2015`
+
+Built reports on SSMS for management and clients
+Setup and deployed Document Management System for clients using Microsoft Sharepoint 2013 and Office365
+Engaged client to gather software requirements and ensure alignment with development teams
+Supported on Database related issues
+Interviewed end users to determine requirements for data, reports, analyses, metadata, training, service levels, data quality, and performance 
+Worked with architects to translate requirements into technical specifications
+Facilitated monthly meetings with clients to document requirements and explore potential solutions
+Identified and reconciled errors in client data to ensure accurate business requirements
+Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013
 
 
 ## Education
