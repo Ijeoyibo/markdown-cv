@@ -58,7 +58,8 @@ Microsoft Power BI
 
 `2015-2017
 
-- Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
+- Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business
+partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
 - Translated key data insights into digestible formats to be leveraged by strategic decision makers
 - Created Report on Key Business Metrics and KPIs for business monitoring
 - Built organizations reports and all partners report by converting Crystal reports to RDL using Microsoft Visual Studio. This helped sell the in-house software to other stock brokers that yield millions(N) for the organization. Its served the needs of customers and internal stakeholders 
