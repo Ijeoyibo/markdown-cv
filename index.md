@@ -15,9 +15,9 @@ title: Ijeoyibo Egejuru's CV
 
 
 
-<center>PROGRAM MANAGER DATA ANALYST</center>
+<center>                                                 PROGRAM MANAGER DATA ANALYST</center>
 
-<center>    ____________________________________________________ </center>
+<center>    ___________________________________________________________________ </center>
 
 Analyst and Program/Project Management leader with technical depth and passion for data analysis, data visualization, project management and process efficiency. History of overcoming obstacles and transforming data to help decision makers run smooth operations. Detail-oriented, passion for data and aim to utilize my strong prioritization skills and analytical ability to achieve organization goals. Love the pursuit of excellence and inspired by challenges that come through innovations that impact lives.
 
