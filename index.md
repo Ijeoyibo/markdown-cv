@@ -49,7 +49,10 @@ Microsoft Power BI
 
 `2018-2019`
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Stay at home parent.  Relocated to start a family, and now I am ready to return to work force full time.
+- LinkedIn online courses on Data Analytics, in progress
+- LinkedIn online courses on Microsoft BI Stack, in progress
+
 
 
 ## Education
