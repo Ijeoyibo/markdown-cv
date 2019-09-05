@@ -22,7 +22,7 @@ title: Ijeoyibo Egejuru's CV
 Analyst and Program/Project Management leader with technical depth and passion for data analysis, data visualization, project management and process efficiency. History of overcoming obstacles and transforming data to help decision makers run smooth operations. Detail-oriented, passion for data and aim to utilize my strong prioritization skills and analytical ability to achieve organization goals. Love the pursuit of excellence and inspired by challenges that come through innovations that impact lives.
 
 
-## Certifications
+## CERTIFICATIONS
 
 - MCDBA (Microsoft Certified Database Administrator)
 - MCP (Microsoft Certified Professional)
@@ -155,7 +155,7 @@ Database Analyst, `2007 – 2008`
 - Performed other related duties and special projects as assigned or directed.
 
 
-## Education
+## EDUCATION
 
 `2000-2005`
 __Federal University of Technology, Nigeria, Bachelor of Technology, Project Management.__
