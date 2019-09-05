@@ -121,7 +121,7 @@ Data Analyst `2008-2012`
 - Responsible for Service Transition processes
 
 _Key Accomplishments:_
-- Involved in starting up Interswitch Uganda
+***Involved in starting up Interswitch Uganda***
 - Responsible and accountable for the coordinated management of multiple related projects directed toward strategic business and other organizational objectives 
 - Defined and initiated projects, while working to ensure the ultimate success and acceptance of the program.
 - Managed and trained staff/team members on Postilion
@@ -140,6 +140,19 @@ _Involved in Designing Data Warehouse for Interswitch Nigeria_
 - Extracted data from multiple source
 - Leveraged business intelligence for data analysis
 
+
+__SocketWorks Global__, Lagos, Nigeria/ Accra, Ghana
+Database Analyst, `2007 – 2008`
+***SocketWorks Limited is an Application Service Provider (ASP) and a limited liability company founded in 2003. We provide IT infrastructure and software solutions to digitally manage the operations of Corporate organization, SMEs, Financial, Government and Educational institutions. We are committed to exceptional service delivery and exceeding the expectation of our clients.***
+
+- Provided centralized control of the design, implementation and use of databases and their associated environments.
+- Landmark efficiency in creating reports for the client's using Crystal report, iReport and Microsoft reporting services to enable them to make business decisions.
+- Ensured data integrity, consistency and accuracy by enabling the database referential integrity feature to meet relational rules and maintain relationships between tables.
+- Provided database services to administrative and academic clients.
+- Provided applications and technologies (Business Intelligence) for gathering, storing, analyzing, and providing access to data to help clients/users make better business decisions.
+- Performed data replication for copying and distributing data from one database to another and then synchronizing between databases for consistency.
+- Performed administrative and technical duties associated with the performance, tuning and maintenance of database environments.
+- Performed other related duties and special projects as assigned or directed.
 
 
 ## Education
