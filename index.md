@@ -24,7 +24,7 @@ Analyst and Program/Project Management leader with technical depth and passion f
 
 ## Certifications
 
--MCDBA (Microsoft Certified Database Administrator)
+- MCDBA (Microsoft Certified Database Administrator)
 
 -MCP (Microsoft Certified Professional)
 
