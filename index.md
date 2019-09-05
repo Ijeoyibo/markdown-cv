@@ -56,7 +56,7 @@ Microsoft Power BI
 
 > VETIVA CAPITAL LIMITED, Lagos, Nigeria
 
-`2015-2017
+`2015-2017`
 
 - Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business
 partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
