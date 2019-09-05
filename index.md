@@ -5,7 +5,7 @@ title: Ijeoyibo Egejuru's CV
 # Ijeoyibo Jennifer Egejuru
 Physicist, Mathematician, Cambridge professor.
 
-<div id=" https://www.linkedin.com/in/ijeoyibo-egejuru">
+<div id="linkedin.com/in/ijeoyibo-egejuru">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
