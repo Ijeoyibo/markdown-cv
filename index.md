@@ -43,7 +43,11 @@ Microsoft Power BI
 | SQL Server Analysis Services Tabular
 
 
-### Research interests
+### EXPERIENCES
+
+> Lynnwood WA
+
+`2018-2019`
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
