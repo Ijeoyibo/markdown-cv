@@ -9,9 +9,10 @@ title: Ijeoyibo Egejuru's CV
 <a href="https://www.linkedin.com/in/ijeoyibo-egejuru">https://www.linkedin.com/in/ijeoyibo-egejuru</a>
 | <a href="https://www.linkedin.com/in/ijeoyibo-egejuru"> MyLinkedIn Page</a>
 </div>
-                                
+   
+   
 <center> PROGRAM MANAGER DATA ANALYST</center>
-<center> ______________________________________________________________________________________________________________</center>
+<center> _______________________________________________________________________</center>
 
 ## Currently
 
