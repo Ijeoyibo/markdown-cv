@@ -58,8 +58,6 @@ __VETIVA CAPITAL LIMITED, Lagos, Nigeria__
 
 *Vetiva is a Pan-African Financial Services Company incorporated in Nigeria; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively*
 
-
-
 `2015-2017`
 
 - Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
