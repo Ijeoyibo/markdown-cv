@@ -2,7 +2,7 @@
 layout: cv
 title: Ijeoyibo Egejuru's CV
 ---
-# <center>IJEOYIBO JENNIFER EGEJURU</center>
+# IJEOYIBO JENNIFER EGEJURU
 
 <center>           14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-349-5798 | ionyebuagu@gmail.com  </center>
 
