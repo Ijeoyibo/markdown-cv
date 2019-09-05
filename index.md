@@ -56,9 +56,10 @@ __Lynnwood WA__
 
 __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
 
-Lead Program Manager, `2015-2017`
+Lead Program Manager `2015-2017`
 
 ***Vetiva is a Pan-African Financial Services Company incorporated in Nigeria; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively***
+
 
 
 - Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
@@ -75,11 +76,12 @@ Lead Program Manager, `2015-2017`
 
 __1SOURCE TECHNOLOGY PARTNERS__, Lagos, Nigeria
 
-Business Intelligence Analyst, `2013-2015`
+Business Intelligence Analyst `2013-2015`
 
 ***1source was founded in 2008 to serve as a single point of contact for the IT needs of businesses across West Africa.   
 At 1source, we deliver a full range of managed services; from tactical utility-level IT tasks such as help-desk, backup and hosting to full service outsourcing of your entire IT operation. 1source is the preferred single point of contact in complex, multi-vendor IT environments***
 `
+
 
 - Built reports on SSMS for management and clients
 - Setup and deployed Document Management System for clients using Microsoft Sharepoint 2013 and Office365
@@ -90,6 +92,30 @@ At 1source, we deliver a full range of managed services; from tactical utility-l
 - Facilitated monthly meetings with clients to document requirements and explore potential solutions
 - Identified and reconciled errors in client data to ensure accurate business requirements
 - Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013
+
+
+__INTERSWITCH LIMITED__, Lagos, Nigeria
+
+Data Analyst `2008-2012`
+
+***Interswitch is an Africa-focused integrated digital payments and commerce company that facilitates the electronic circulation of money as well as the exchange of value between individuals and organizations on a timely and consistent basis***
+
+
+
+- Developed report using Crystal Reporting for all 30 banks in Nigeria, and provided these reports on daily basis. These reports comprise of 10 different products.
+- Achieved 99.999% availability and performance of the InterSwitch Switching Platform that yield millions (N) for the organization
+- Ensured best-practice maintenance standards on all organization managed servers- Live and Test Environments Servers.
+- Responsible for Postilion DB configurations on integration projects. Postilion is a software for the switching company which seats on Microsoft Database platform
+- Designed data warehouse for the organization
+- Designed, Developed and Implemented delivery management level Reports
+- Performed MasterCard Terminal Integration Process Tests and Production
+- Managed and supported all database servers for the organization
+- Performed Network Interface Validation Mastercard Tests
+- Responsible for Postilion Office Configurations
+- Provided Support on Card-related requests or complaints
+- Co-ordinated and ensured timely, accurate and secure generation of card production files for banks
+- Responsible for accurate generation of transaction report using MSSQL and crystal report tool
+- Responsible for Service Transition processes
 
 
 ## Education
