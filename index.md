@@ -11,9 +11,8 @@ title: Ijeoyibo Egejuru's CV
 </div>
   
   
-<center>  
-## PROGRAM MANAGER DATA ANALYST 
-</center>
+  
+<center>PROGRAM MANAGER DATA ANALYST</center>
 
 <center>    ____________________________________________________ </center>
 
