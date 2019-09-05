@@ -4,10 +4,9 @@ title: Ijeoyibo Egejuru's CV
 ---
 # Ijeoyibo Jennifer Egejuru
 14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-349-5798 | ionyebuagu@gmail.com
-Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="linkedin.com/in/ijeoyibo-egejuru">linkedin.com/in/ijeoyibo-egejuru</a>
+<a href="https://www.linkedin.com/in/ijeoyibo-egejuru">https://www.linkedin.com/in/ijeoyibo-egejuru</a>
 | <a href="https://www.linkedin.com/in/ijeoyibo-egejuru">My linkedin page</a>
 </div>
 
