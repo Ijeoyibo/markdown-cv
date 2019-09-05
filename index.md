@@ -51,9 +51,24 @@ Microsoft Power BI
 
 - Stay at home parent.  Relocated to start a family, and now I am ready to return to work force full time.
 - LinkedIn online courses on Data Analytics, in progress
-- >>LinkedIn online courses on Microsoft BI Stack, in progress
+- LinkedIn online courses on Microsoft BI Stack, in progress
 
 
+> VETIVA CAPITAL LIMITED, Lagos, Nigeria
+
+`2015-2017
+
+- Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
+- Translated key data insights into digestible formats to be leveraged by strategic decision makers
+- Created Report on Key Business Metrics and KPIs for business monitoring
+- Built organizations reports and all partners report by converting Crystal reports to RDL using Microsoft Visual Studio. This helped sell the in-house software to other stock brokers that yield millions(N) for the organization. Its served the needs of customers and internal stakeholders 
+- Liaised between business and developers to ensure a mutual understanding of processes models
+- Facilitated communication and gained commitment between business units to align solutions with business strategies
+- Provided input into developing and modifying systems to meet client needs and develop business specifications to support the modifications 
+- Engaged and built relationships across a range of stakeholder groups and technical project teams
+- Defined SLA for data availability
+- Provided support and lead requirements for data governance
+`
 
 ## Education
 
