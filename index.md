@@ -10,8 +10,8 @@ title: Ijeoyibo Egejuru's CV
 | <a href="https://www.linkedin.com/in/ijeoyibo-egejuru"> My LinkedIn Page</a>
 </div>
                                 
-*** <center> PROGRAM MANAGER DATA ANALYST</center>***
-### _______________________________________________________________________________________________________
+** <center> PROGRAM MANAGER DATA ANALYST</center>**
+### <center> _______________________________________________________________________________________________________________________</center>
 ## Currently
 
 Standing on the shoulders of giants
