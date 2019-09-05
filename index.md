@@ -27,9 +27,9 @@ Analyst and Program/Project Management leader with technical depth and passion f
 - MCDBA (Microsoft Certified Database Administrator)
 - MCP (Microsoft Certified Professional)
 
-### Specialized in
+### CORE COMPETENCIES
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Microsoft Power BI | Business  Intelligence | Data Analysis | Data Visualization | Business Process Re-engineering | Project Management | SQL Querying | SQL Server Reporting Services (SSRS) | Data Warehousing | Data Mining | Data Integration | Extract, Transform and Load (ETL) | Problem Solving/Attention to Detail | Tableau | QlikView | OLAP | SQL Server Integration Services (SSIS) | SharePoint | MSOffice Suite | Crystal Reporting Tool | Presentation Skills| Microsoft Visio | Team work | Honesty | Reliable | Can-do-attitude | Goal-oriented | Execution-Oriented | Excellent Collaboration | SQL Server Analysis Services Tabular
 
 
 ### Research interests
