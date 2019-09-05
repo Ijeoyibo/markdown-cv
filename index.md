@@ -142,7 +142,9 @@ _Involved in Designing Data Warehouse for Interswitch Nigeria_
 
 
 __SocketWorks Global__, Lagos, Nigeria/ Accra, Ghana
+
 Database Analyst, `2007 – 2008`
+
 ***SocketWorks Limited is an Application Service Provider (ASP) and a limited liability company founded in 2003. We provide IT infrastructure and software solutions to digitally manage the operations of Corporate organization, SMEs, Financial, Government and Educational institutions. We are committed to exceptional service delivery and exceeding the expectation of our clients.***
 
 - Provided centralized control of the design, implementation and use of databases and their associated environments.
