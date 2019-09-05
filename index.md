@@ -45,7 +45,7 @@ Microsoft Power BI
 
 ### EXPERIENCES
 
-> Lynnwood WA
+__Lynnwood WA__
 
 `2018-2019`
 
