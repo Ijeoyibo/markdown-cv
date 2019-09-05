@@ -2,7 +2,7 @@
 layout: cv
 title: Ijeoyibo Egejuru's CV
 ---
-#                   IJEOYIBO JENNIFER EGEJURU
+                                 IJEOYIBO JENNIFER EGEJURU
 
 14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-349-5798 | ionyebuagu@gmail.com
 
@@ -11,7 +11,7 @@ title: Ijeoyibo Egejuru's CV
 | <a href="https://www.linkedin.com/in/ijeoyibo-egejuru">My linkedin page</a>
 </div>
                                 
-__                                 PROGRAM MANAGER DATA ANALYST
+                                 PROGRAM MANAGER DATA ANALYST
 
 ## Currently
 
