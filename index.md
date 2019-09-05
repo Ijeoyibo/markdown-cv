@@ -54,9 +54,9 @@ __Lynnwood WA__
 - LinkedIn online courses on Microsoft BI Stack, in progress
 
 
-__VETIVA CAPITAL LIMITED, Lagos, Nigeria__
-
-*Vetiva is a Pan-African Financial Services Company incorporated in Nigeria; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively*
+__VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
+Lead Program Manager
+***Vetiva is a Pan-African Financial Services Company incorporated in Nigeria; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively***
 
 `2015-2017`
 
@@ -70,7 +70,15 @@ __VETIVA CAPITAL LIMITED, Lagos, Nigeria__
 - Engaged and built relationships across a range of stakeholder groups and technical project teams
 - Defined SLA for data availability
 - Provided support and lead requirements for data governance
-`
+
+
+__1SOURCE TECHNOLOGY PARTNERS__, Lagos, Nigeria
+Business Intelligent Analyst
+***1source was founded in 2008 to serve as a single point of contact for the IT needs of businesses across West Africa.   
+At 1source, we deliver a full range of managed services; from tactical utility-level IT tasks such as help-desk, backup and hosting to full service outsourcing of your entire IT operation. 1source is the preferred single point of contact in complex, multi-vendor IT environments***
+
+`2013-2015`
+
 
 ## Education
 
