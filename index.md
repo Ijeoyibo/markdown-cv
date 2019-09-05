@@ -62,6 +62,7 @@ Lead Program Manager `2015-2017`
 
 
 
+
 - Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
 - Translated key data insights into digestible formats to be leveraged by strategic decision makers
 - Created Report on Key Business Metrics and KPIs for business monitoring
@@ -83,6 +84,7 @@ At 1source, we deliver a full range of managed services; from tactical utility-l
 `
 
 
+
 - Built reports on SSMS for management and clients
 - Setup and deployed Document Management System for clients using Microsoft Sharepoint 2013 and Office365
 - Engaged client to gather software requirements and ensure alignment with development teams
@@ -99,6 +101,7 @@ __INTERSWITCH LIMITED__, Lagos, Nigeria
 Data Analyst `2008-2012`
 
 ***Interswitch is an Africa-focused integrated digital payments and commerce company that facilitates the electronic circulation of money as well as the exchange of value between individuals and organizations on a timely and consistent basis***
+
 
 
 
@@ -134,47 +137,6 @@ __Trinity College, Cambridge__
 - Fellow
 
 >
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
 
 
 <!-- ### Footer
