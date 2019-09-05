@@ -157,24 +157,14 @@ Database Analyst, `2007 – 2008`
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2000-2005`
+__Federal University of Technology, Nigeria, Bachelor of Technology, Project Management.__
 
 >
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: September 2019 -->
 
 
