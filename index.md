@@ -76,12 +76,11 @@ Lead Program Manager
 
 __1SOURCE TECHNOLOGY PARTNERS__, Lagos, Nigeria
 
-Business Intelligence Analyst
+Business Intelligence Analyst, `2013-2015`
 
 ***1source was founded in 2008 to serve as a single point of contact for the IT needs of businesses across West Africa.   
 At 1source, we deliver a full range of managed services; from tactical utility-level IT tasks such as help-desk, backup and hosting to full service outsourcing of your entire IT operation. 1source is the preferred single point of contact in complex, multi-vendor IT environments***
-
-`2013-2015`
+`
 
 - Built reports on SSMS for management and clients
 - Setup and deployed Document Management System for clients using Microsoft Sharepoint 2013 and Office365
