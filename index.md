@@ -11,7 +11,7 @@ title: Ijeoyibo Egejuru's CV
 | <a href="https://www.linkedin.com/in/ijeoyibo-egejuru">My linkedin page</a>
 </div>
                                 
-### <center>PROGRAM MANAGER DATA ANALYST</center>
+## <center>PROGRAM MANAGER DATA ANALYST</center>
 
 ## Currently
 
