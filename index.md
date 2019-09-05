@@ -7,7 +7,7 @@ title: Ijeoyibo Egejuru's CV
 
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/ijeoyibo-egejuru">https://www.linkedin.com/in/ijeoyibo-egejuru</a>
-| <a href=My LinkedIn Page | "https://www.linkedin.com/in/ijeoyibo-egejuru"</a>
+| <a href="https://www.linkedin.com/in/ijeoyibo-egejuru"> MyLinkedIn Page</a>
 </div>
                                 
 <center> PROGRAM MANAGER DATA ANALYST</center>
