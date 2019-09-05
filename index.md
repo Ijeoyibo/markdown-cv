@@ -56,16 +56,20 @@ Microsoft Power BI
 
 > VETIVA CAPITAL LIMITED, Lagos, Nigeria
 
+Vetiva is a Pan-African Financial Services Company incorporated in Nigeria; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively
+
+
+
 `2015-2017`
 
-- Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business
+- Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business-
 partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
 - Translated key data insights into digestible formats to be leveraged by strategic decision makers
 - Created Report on Key Business Metrics and KPIs for business monitoring
-- Built organizations reports and all partners report by converting Crystal reports to RDL using Microsoft Visual Studio. This helped sell the in-house software to other stock brokers that yield millions(N) for the organization. Its served the needs of customers and internal stakeholders 
+- Built organizations reports and all partners report by converting Crystal reports to RDL using Microsoft Visual Studio. This helped- sell the in-house software to other stock brokers that yield millions(N) for the organization. Its served the needs of customers and- internal stakeholders 
 - Liaised between business and developers to ensure a mutual understanding of processes models
 - Facilitated communication and gained commitment between business units to align solutions with business strategies
-- Provided input into developing and modifying systems to meet client needs and develop business specifications to support the modifications 
+- Provided input into developing and modifying systems to meet client needs and develop business specifications to support the- modifications 
 - Engaged and built relationships across a range of stakeholder groups and technical project teams
 - Defined SLA for data availability
 - Provided support and lead requirements for data governance
