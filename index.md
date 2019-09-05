@@ -121,24 +121,24 @@ Data Analyst `2008-2012`
 - Responsible for Service Transition processes
 
 _Key Accomplishments:_
--Involved in starting up Interswitch Uganda
--Responsible and accountable for the coordinated management of multiple related projects directed toward strategic business and other organizational objectives 
--Defined and initiated projects, while working to ensure the ultimate success and acceptance of the program.
--Managed and trained staff/team members on Postilion
--Responsible for all Postilion/Postilion Office Installation and maintenance 
--Responsible for postilion/postilion office configurations
--Responsible for card program setup
--Responsible for reports generation using MSSQL and crystal reporting tool
--Completed and implemented application before deadline
--Responsible for updating of operating service procedures and other supporting technical documentation
--Ensured a strong customer relationship through a positive, proactive & professional approach
+- Involved in starting up Interswitch Uganda
+- Responsible and accountable for the coordinated management of multiple related projects directed toward strategic business and other organizational objectives 
+- Defined and initiated projects, while working to ensure the ultimate success and acceptance of the program.
+- Managed and trained staff/team members on Postilion
+- Responsible for all Postilion/Postilion Office Installation and maintenance 
+- Responsible for postilion/postilion office configurations
+- Responsible for card program setup
+- Responsible for reports generation using MSSQL and crystal reporting tool
+- Completed and implemented application before deadline
+- Responsible for updating of operating service procedures and other supporting technical documentation
+- Ensured a strong customer relationship through a positive, proactive & professional approach
 
 _Involved in Designing Data Warehouse for Interswitch Nigeria_
--Identified stakeholders 
--Prepared an implementation plan
--Analyzed organizations data requirements
--Extracted data from multiple source
--Leveraged business intelligence for data analysis
+- Identified stakeholders 
+- Prepared an implementation plan
+- Analyzed organizations data requirements
+- Extracted data from multiple source
+- Leveraged business intelligence for data analysis
 
 
 
