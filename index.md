@@ -1,4 +1,4 @@
----
+D---
 layout: cv
 title: Ijeoyibo Egejuru's
 ---
@@ -15,11 +15,11 @@ title: Ijeoyibo Egejuru's
 
 
 
-<center>                                                 PROGRAM MANAGER DATA ANALYST</center>
+<center>                                                 DATA DRIVEN PROGRAM MANAGER</center>
 
 <center>    _________________________________________________________ </center>
 
-Analyst and Program/Project Management leader with technical depth and passion for data analysis, data visualization, project management and process efficiency. History of overcoming obstacles and transforming data to help decision makers run smooth operations. Detail-oriented, passion for data and aim to utilize my strong prioritization skills and analytical ability to achieve organization goals. Love the pursuit of excellence and inspired by challenges that come through innovations that impact lives.
+Program and project management leader with technical depth and passion for data science, analysis, and visualization. Fluent in  process decomposition, redesign and optimization, especially when faced with tight deadlines and resource constraints. History of overcoming obstacles and providing data-driven decision support to help senior executives run smooth operations. Live for the opportunity to pursue excellence and bring innovations to market that impact lives and empower organizations to achieve their goals.
 
 
 ## CERTIFICATIONS
@@ -47,11 +47,10 @@ Microsoft Power BI
 
 __Lynnwood WA__
 
-`2018-2019`
+Motherhood `2018-2019`
 
-- Stay at home parent.  Relocated to start a family, and now I am ready to return to work force full time.
-- LinkedIn online courses on Data Analytics, in progress
-- LinkedIn online courses on Microsoft BI Stack, in progress
+- Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my first child.
+- Maintained professional readiness by completing LinkedIn online courses in Data Analytics and the Microsoft Business Intelligence platform
 
 
 __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
