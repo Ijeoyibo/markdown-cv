@@ -20,6 +20,8 @@ title: Ijeoyibo Egejuru's
 
 <center>    _________________________________________________________ </center>
 
+
+
 Program and project management leader with technical depth and passion for data science, analysis, and visualization. Fluent in  process decomposition, redesign and optimization, especially when faced with tight deadlines and resource constraints. History of overcoming obstacles and providing data-driven decision support to help senior executives run smooth operations. Live for the opportunity to pursue excellence and bring innovations to market that impact lives and empower organizations to achieve their goals.
 
 
