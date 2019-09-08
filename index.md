@@ -4,12 +4,12 @@ title: Ijeoyibo Egejuru's
 ---
 # IJEOYIBO JENNIFER EGEJURU
 
-<center>14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-349-5798 | ionyebuagu@gmail.com</center>
+14610 Admiralty Way | Lynnwood, WA 98087 | Cell: 206-349-5798 | ionyebuagu@gmail.com
 
-<center> <div id="webaddress">
+<div id="webaddress">
 <a href="https://www.linkedin.com/in/ijeoyibo-egejuru">https://www.linkedin.com/in/ijeoyibo-egejuru</a>
 | <a href="https://www.linkedin.com/in/ijeoyibo-egejuru"> MyLinkedIn Page</a>
-</div> </center>
+</div>
   
   
   
@@ -50,6 +50,7 @@ __Lynnwood WA__
 
 Motherhood `2018-2019`
 
+
 - Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my first child.
 - Maintained professional readiness by completing LinkedIn online courses in Data Analytics and the Microsoft Business Intelligence platform
 
@@ -58,7 +59,7 @@ __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
 
 Lead Program Manager `2015-2017`
 
-***Vetiva is a Pan-African Financial Services Company incorporated in Nigeria; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively***
+***Vetiva is a Pan-African Financial Services Company; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively***
 
 
 
