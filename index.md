@@ -67,10 +67,10 @@ Lead Program Manager `2015-2017`
 
 
 
-- Responsible for gathering, refining and validating complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
+- Generated million Naira in sales by using Microsoft Visual Studio to refactor Crystal Reports to RDL so that they could be easily distributed to and consumed by stock brokers
+- Gathered, refined and validated complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
 - Translated key data insights into digestible formats to be leveraged by strategic decision makers
 - Created Report on Key Business Metrics and KPIs for business monitoring
-- Built organizations reports and all partners report by converting Crystal reports to RDL using Microsoft Visual Studio. This helped- sell the in-house software to other stock brokers that yield millions(N) for the organization. Its served the needs of customers and- internal stakeholders 
 - Liaised between business and developers to ensure a mutual understanding of processes models
 - Facilitated communication and gained commitment between business units to align solutions with business strategies
 - Provided input into developing and modifying systems to meet client needs and develop business specifications to support the- modifications 
@@ -104,18 +104,19 @@ __INTERSWITCH LIMITED__, Lagos, Nigeria
 
 Data Analyst `2008-2012`
 
-***Interswitch is an Africa-focused integrated digital payments and commerce company that facilitates the electronic circulation of money as well as the exchange of value between individuals and organizations on a timely and consistent basis***
+***Interswitch is an Africa-focused integrated digital payments and commerce company that facilitates the electronic circulation of money as well as the exchange of value between individuals and organizations (over 30 banks in Nigeria, Uganda, Gambia, Kenya) on a timely and consistent basis. They are efficient payment processor, most efficient Payment Terminal Service Provider and most efficient Payment Terminal Application Developer.***
 
 
 
 
-- Developed report using Crystal Reporting for all 30 banks in Nigeria, and provided these reports on daily basis. These reports comprise of 10 different products.
+- Set up Interswitch Uganda, built reports and upgarded their system. This switching company is number 1 in the Uganada market
+- Developed report using Crystal Reporting for all 30 banks in Nigeria, and provided these reports on daily basis. These reports comprise of 10 different products which helped decision makers to have a view on the market and made better decisions.
+- Performed MasterCard Terminal Integration Process Tests and Production
 - Achieved 99.999% availability and performance of the InterSwitch Switching Platform that yield millions (N) for the organization
 - Ensured best-practice maintenance standards on all organization managed servers- Live and Test Environments Servers.
 - Responsible for Postilion DB configurations on integration projects. Postilion is a software for the switching company which seats on Microsoft Database platform
 - Designed data warehouse for the organization
 - Designed, Developed and Implemented delivery management level Reports
-- Performed MasterCard Terminal Integration Process Tests and Production
 - Managed and supported all database servers for the organization
 - Performed Network Interface Validation Mastercard Tests
 - Responsible for Postilion Office Configurations
