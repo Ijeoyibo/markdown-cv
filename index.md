@@ -10,7 +10,7 @@ title: Ijeoyibo Egejuru's
 | <a href="https://www.linkedin.com/in/ijeoyibo-egejuru"> MyLinkedIn Page</a>
 </div>
 
-####                                         DATA DRIVEN PROGRAM MANAGER
+#### <center> DATA DRIVEN PROGRAM MANAGER </center>
 
 <center>              _________________________________________________________ </center>
 
