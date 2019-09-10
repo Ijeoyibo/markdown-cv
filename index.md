@@ -82,15 +82,16 @@ At 1source, we deliver a full range of managed services; from tactical utility-l
 
 
 
+- Migrated all external stakeholders raw data into MSSQL Server using ETL Packages. This made them more efficient to serve their clients better and yielded more revenue to the company
+- Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013 which was used by external stakeholders sales team and top management for decision making
 - Built reports on SSMS for management and clients
-- Setup and deployed Document Management System for clients using Microsoft Sharepoint 2013 and Office365
 - Engaged client to gather software requirements and ensure alignment with development teams
-- Supported on Database related issues
-- Interviewed end users to determine requirements for data, reports, analyses, metadata, training, service levels, data quality, and performance 
-- Worked with architects to translate requirements into technical specifications
-- Facilitated monthly meetings with clients to document requirements and explore potential solutions
-- Identified and reconciled errors in client data to ensure accurate business requirements
-- Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013
+-	Supported on Database related issues
+-	Interviewed end users to determine requirements for data, reports, analyses, metadata, training, service levels, data quality, and performance 
+-	Worked with architects to translate requirements into technical specifications
+-	Facilitated monthly meetings with clients to document requirements and explore potential solutions
+-	Identified and reconcile errors in client data to ensure accurate business requirements
+
 
 
 __INTERSWITCH LIMITED__, Lagos, Nigeria
