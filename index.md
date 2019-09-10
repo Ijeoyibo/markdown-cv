@@ -84,7 +84,6 @@ At 1source, we deliver a full range of managed services; from tactical utility-l
 
 - Migrated all external stakeholders raw data into MSSQL Server using ETL Packages. This made them more efficient to serve their clients better and yielded more revenue to the company
 - Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013 which was used by external stakeholders sales team and top management for decision making
-- Built reports on SSMS for management and clients
 - Engaged client to gather software requirements and ensure alignment with development teams
 -	Supported on Database related issues
 -	Interviewed end users to determine requirements for data, reports, analyses, metadata, training, service levels, data quality, and performance 
@@ -103,7 +102,7 @@ Data Analyst `2008-2012`
 
 
 
-- Set up Interswitch Uganda, built reports and upgarded their system. This switching company is number 1 in the Uganada market
+- Set up Interswitch Uganda, built reports and upgraded their system. This switching company is number one in the Uganda market and has yielded over Million Naira
 - Developed report using Crystal Reporting for all 30 banks in Nigeria, and provided these reports on daily basis. These reports comprise of 10 different products which helped decision makers to have a view on the market and made better decisions.
 - Performed MasterCard Terminal Integration Process Tests and Production
 - Achieved 99.999% availability and performance of the InterSwitch Switching Platform that yield millions (N) for the organization
@@ -144,8 +143,9 @@ __SocketWorks Global__, Lagos, Nigeria/ Accra, Ghana
 
 Database Analyst, `2007 – 2008`
 
-***SocketWorks Limited is an Application Service Provider (ASP) and a limited liability company founded in 2003. We provide IT infrastructure and software solutions to digitally manage the operations of Corporate organization, SMEs, Financial, Government and Educational institutions. We are committed to exceptional service delivery and exceeding the expectation of our clients.***
+***SocketWorks Limited is an Application Service Provider (ASP) and a limited liability company founded in 2003. We provide IT infrastructure and software solutions to digitally manage the operations of corporate organization, SMEs, Financial, Government and Educational institutions. We are committed to exceptional service delivery and exceeding the expectation of our clients.***
 
+- Migrated raw data for over 20 high schools into MS SQL Server using ETL Packages, this made students and staff work online
 - Provided centralized control of the design, implementation and use of databases and their associated environments.
 - Landmark efficiency in creating reports for the client's using Crystal report, iReport and Microsoft reporting services to enable them to make business decisions.
 - Ensured data integrity, consistency and accuracy by enabling the database referential integrity feature to meet relational rules and maintain relationships between tables.
