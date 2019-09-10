@@ -55,7 +55,7 @@ __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
 
 Lead Program Manager `2015-2017`
 
-***Vetiva is a Pan-African Financial Services Company; duly regulated and registered by the Securities & Exchange Commission. Our wholly-owned subsidiaries Vetiva Securities Limited (a dealing member of the Nigerian Stock Exchange); Vetiva Fund Managers Limited and Vetiva Trustees Limited act as Broker/Dealers, Fund/Portfolio Managers and Corporate Trustees respectively***
+***Vetiva is a leading provider of capital market advisory and capital raising services in Nigeria with a pan African focus having worked with a wide range of clients on ground breaking transactions across domestic and global platforms. Their capital market/capital raising deals include public and private transactions for government and corporate clients across the following asset classes/securities: Equity; Debt; Quasi-Equity.***
 
 
 
