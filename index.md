@@ -145,7 +145,7 @@ Database Analyst, `2007 – 2008`
 
 ***SocketWorks Limited is an Application Service Provider (ASP) and a limited liability company founded in 2003. We provide IT infrastructure and software solutions to digitally manage the operations of corporate organization, SMEs, Financial, Government and Educational institutions. We are committed to exceptional service delivery and exceeding the expectation of our clients.***
 
-- Migrated raw data for over 20 high schools into MS SQL Server using ETL Packages, this made students and staff work online
+- Migrated raw data for over 10 Universities into MS SQL Server using ETL Packages, this made students and staff work online
 - Provided centralized control of the design, implementation and use of databases and their associated environments.
 - Landmark efficiency in creating reports for the client's using Crystal report, iReport and Microsoft reporting services to enable them to make business decisions.
 - Ensured data integrity, consistency and accuracy by enabling the database referential integrity feature to meet relational rules and maintain relationships between tables.
