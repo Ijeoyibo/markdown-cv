@@ -38,7 +38,7 @@ Microsoft Power BI
 | Honesty | Reliable | Can-do-attitude | Goal-oriented 
 | Execution-Oriented | Excellent Collaboration 
 | SQL Server Analysis Services Tabular
-
+| Python | Python Data Analystics
 
 ### EXPERIENCES
 
@@ -49,6 +49,7 @@ Motherhood `2018-2019`
 
 - Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my first child.
 - Maintained professional readiness by completing LinkedIn online courses in Data Analytics and the Microsoft Business Intelligence platform
+- Self-taught Python/Python Data Analystics in Progress
 
 
 __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
