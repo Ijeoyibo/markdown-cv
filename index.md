@@ -38,7 +38,7 @@ Microsoft Power BI
 | Honesty | Reliable | Can-do-attitude | Goal-oriented 
 | Execution-Oriented | Excellent Collaboration 
 | SQL Server Analysis Services Tabular
-| Python | Python Data Analystics
+| Python | Python Data Analytics
 
 ### EXPERIENCES
 
@@ -48,19 +48,19 @@ Motherhood `2018-2019`
 
 
 - Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my first child.
-- Maintained professional readiness by completing LinkedIn online courses in Data Visualization for Data Analysts, Power BI for Marketers, Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics and Self-taught Python/Python Data Analsytics in Progress
+- Maintained professional readiness by completing LinkedIn online courses in Data Visualization for Data Analysts, Power BI for Marketers, Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics and Self-taught Python/Python Data Analytics in Progress
 
 
 __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
 
 Lead Program Manager `2015-2017`
 
-***Vetiva is a leading provider of capital market advisory and capital raising services in Nigeria with a pan African focus having worked with a wide range of clients on ground breaking transactions across domestic and global platforms. Their capital market/capital raising deals include public and private transactions for government and corporate clients across the following asset classes/securities: Equity; Debt; Quasi-Equity.***
+***Vetiva is a leading provider of capital market advisory and capital raising services in Nigeria with a pan African focus having worked with a wide range of clients on groundbreaking transactions across domestic and global platforms. Their capital market/capital raising deals include public and private transactions for government and corporate clients across the following asset classes/securities: Equity; Debt; Quasi-Equity.***
 
 
 
 
-- Created new digital publishing revenue stream in excess of 2.5 million Naira/ $8,000 USD for 5 years and support fees after 5 years by authoring reports using Microsoft Visual Studio, Crystal Reports and RDL that were packaged, distributed and tailored to the exact specifications of stock brokers
+- Created new digital publishing revenue stream in excess of 2.5 million Naira/ $8,000 USD for 5 years and support fees after 5 years by authoring reports using Microsoft Visual Studio, Crystal Reports and RDL that were packaged, distributed and tailored to the exact specifications of stockbrokers
 - Gathered, refined and validated complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
 - Translated key data insights into digestible formats to be leveraged by strategic decision makers
 - Created Report on Key Business Metrics and KPIs for business monitoring
@@ -77,13 +77,13 @@ __1SOURCE TECHNOLOGY PARTNERS__, Lagos, Nigeria
 Business Intelligence Analyst `2013-2015`
 
 ***1source was founded in 2008 to serve as a single point of contact for the IT needs of businesses across West Africa.   
-At 1source, we deliver a full range of managed services; from tactical utility-level IT tasks such as help-desk, backup and hosting to full service outsourcing of your entire IT operation. 1source is the preferred single point of contact in complex, multi-vendor IT environments***
+At 1source, we deliver a full range of managed services; from tactical utility-level IT tasks such as help-desk, backup and hosting to full-service outsourcing of your entire IT operation. 1source is the preferred single point of contact in complex, multi-vendor IT environments***
 `
 
 
 
-- Migrated all external stakeholders raw data into MSSQL Server using ETL Packages. This made them more efficient to serve their clients better and yielded more revenue to the company
-- Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013 which was used by external stakeholders sales team and top management for decision making
+- Migrated all external stakeholders' raw data into MSSQL Server using ETL Packages. This made them more efficient to serve their clients better and yielded more revenue to the company
+- Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013 which was used by external stakeholders' sales team and top management for decision making
 - Engaged client to gather software requirements and ensure alignment with development teams
 -	Supported on Database related issues
 -	Interviewed end users to determine requirements for data, reports, analyses, metadata, training, service levels, data quality, and performance 
@@ -103,7 +103,7 @@ Data Analyst `2008-2012`
 
 
 - Set up Interswitch Uganda, built reports and upgraded their system. This switching company is number one in the Uganda market and has yielded over Million Naira
-- Developed report using Crystal Reporting for all 30 banks in Nigeria, and provided these reports on daily basis. These reports comprise of 10 different products which helped decision makers to have a view on the market and made better decisions.
+- Developed report using Crystal Reporting for all 30 banks in Nigeria and provided these reports on daily basis. These reports comprise of 10 different products which helped decision makers to have a view on the market and made better decisions.
 - Performed MasterCard Terminal Integration Process Tests and Production
 - Achieved 99.999% availability and performance of the InterSwitch Switching Platform that yield millions (N) for the organization
 - Ensured best-practice maintenance standards on all organization managed servers- Live and Test Environments Servers.
