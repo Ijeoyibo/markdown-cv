@@ -44,10 +44,10 @@ Microsoft Power BI
 
 __Lynnwood WA__
 
-Motherhood `2018-2019`
+Motherhood `2018-2020`
 
 
-- Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my first child.
+- Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my 2 kids.
 - Maintained professional readiness by completing LinkedIn online courses in Data Visualization for Data Analysts, Power BI for Marketers, Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics and Self-taught Python/Python Data Analytics in Progress
 
 
