@@ -49,6 +49,7 @@ Motherhood `2018-2020`
 
 - Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my 2 kids.
 - Maintained professional readiness by completing LinkedIn online courses in Data Visualization for Data Analysts, Power BI for Marketers, Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics and Self-taught Python/Python Data Analytics in Progress
+- Tailoring. Source for materials, create designs and sew outfits from start to finish for clients
 
 
 __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
