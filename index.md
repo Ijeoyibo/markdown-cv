@@ -83,7 +83,7 @@ At 1source, we deliver a full range of managed services; from tactical utility-l
 
 
 
-- Migrated all external stakeholders' raw data into MSSQL Server using ETL Packages. This made them more efficient to serve their clients better and yielded more revenue to the company
+- Migrated all external stakeholders'(digitalized the education system in Nigeria and Ghana) raw data into MSSQL Server using ETL Packages. This made them more efficient to serve their clients better and yielded more revenue to the company
 - Built cubes for reporting and data visualization analysis using Visual Studio and Excel 2013 which was used by external stakeholders' sales team and top management for decision making
 - Engaged client to gather software requirements and ensure alignment with development teams
 -	Supported on Database related issues
