@@ -16,7 +16,7 @@ title: Ijeoyibo Egejuru's
 
 
 
-Program and project management leader with technical depth and passion for data science, analysis, and visualization. Strong program and project management professional skilled at working in cross-functional teams across Operation, Accounting and Engineering. Fluent in process decomposition, redesign, and optimization, especially when faced with tight deadlines and resource constraints. History of overcoming obstacles and providing data-driven decision support to help senior executives run smooth operations. Live for the opportunity to pursue excellence and bring innovations to market that impact lives and empower organizations to achieve their goals.
+Program and project management leader with technical depth and passion for data science, analysis, visualization and storytelling. Strong program and project management professional skilled at working in cross-functional teams across Operation, Accounting and Engineering. Fluent in process decomposition, redesign, and optimization, especially when faced with tight deadlines and resource constraints. History of overcoming obstacles and providing data-driven decision support to help senior executives run smooth operations. Live for the opportunity to pursue excellence and bring innovations to market that impact lives and empower organizations to achieve their goals.
 
 
 ## CERTIFICATIONS
