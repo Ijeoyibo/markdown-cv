@@ -49,6 +49,8 @@ Motherhood `2018-2020`
 
 -  Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my 2 kids.
 -  Maintained professional readiness by completing LinkedIn online courses in Data Visualization for Data Analysts, Mastering Microsoft Project Graphical Reports, Power BI for Marketers, Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics and Self-taught Python/Python Data Analytics in Progress
+-  Microsoft azure fundamentals certification in-view
+-  Udemy Lean Six Sigma Green Belt Online in-view
 -  Tailoring. Source for materials, create designs and sew outfits from start to finish for clients
 
 
@@ -63,6 +65,7 @@ Lead Program Manager `2015-2017`
 
 -  Created new digital publishing revenue stream in excess of 2.5 million Naira/ $8,000 USD for 5 years and support fees after 5 years by authoring reports using Microsoft Visual Studio, Crystal Reports and RDL that were packaged, distributed and tailored to the exact specifications of stockbrokers
 -  Gathered, refined and validated complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
+-  Partner with and understand business needs of stakeholders, prioritizing & translating those needs into technical requirements for the engineering team
 -  Translated key data insights into digestible formats to be leveraged by strategic decision makers
 -  Created Report on Key Business Metrics and KPIs for business monitoring
 -  Liaised between business and developers to ensure a mutual understanding of processes models
@@ -105,6 +108,8 @@ Data Analyst `2008-2012`
 
 -  Set up Interswitch Uganda, built reports and upgraded their system. This switching company is number one in the Uganda market and has yielded over Million Naira
 -  Developed report using Crystal Reporting for all 30 banks in Nigeria and provided these reports on daily basis. These reports comprise of 10 different products which helped decision makers to have a view on the market and made better decisions.
+-  Analyzed and report on banks metrics (e.g., weekly, monthly, quarterly, annually), answering descriptive questions as well as making predictions. 
+-  Worked in partnership with other team members to conduct planned and ad-hoc analyses and data visualizations, complete with insights and recommendations.
 -  Performed MasterCard Terminal Integration Process Tests and Production
 -  Achieved 99.999% availability and performance of the InterSwitch Switching Platform that yield millions (N) for the organization
 -  Ensured best-practice maintenance standards on all organization managed servers- Live and Test Environments Servers.
