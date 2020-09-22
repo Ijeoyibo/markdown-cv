@@ -66,7 +66,7 @@ Lead Program Manager `2015-2017`
 
 -  Created new digital publishing revenue stream in excess of 2.5 million Naira/ $8,000 USD for 5 years and support fees after 5 years by authoring reports using Microsoft Visual Studio, Crystal Reports and RDL that were packaged, distributed and tailored to the exact specifications of stockbrokers
 -  Gathered, refined and validated complex business requirements. Used these requirements to analyze business partner’s operation to understand their strengths and weaknesses and determine opportunities to automate processes and functions
--  Partner with and understand business needs of stakeholders, prioritizing & translating those needs into technical requirements for the engineering team
+-  Partnered with and understand business needs of stakeholders, prioritizing & translating those needs into technical requirements for the engineering team
 -  Translated key data insights into digestible formats to be leveraged by strategic decision makers
 -  Created Report on Key Business Metrics and KPIs for business monitoring
 -  Generated reports, dashboards, and data visualizations through detailed analysis, ensuring data accuracy and timeliness
