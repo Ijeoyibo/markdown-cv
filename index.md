@@ -47,10 +47,12 @@ __Lynnwood WA__
 Motherhood `2018-2020`
 
 
--  Managing the entire PLC from initiation to closure.
--  Project Performance tracking.
--  Business Partners relationship development.
--  Construction Manager related duties.
+-  Stay at home parent. Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my 2 children.
+-  Maintained professional readiness by completing LinkedIn online courses in Data Visualization for Data Analysts, Mastering Microsoft Project Graphical Reports, Power BI for Marketers, Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics, Power BI Essential Training, Using Power BI with Excel and Self-taught Python/Python Data Analytics in Progress
+-  Microsoft azure fundamentals certification in-view
+-  Udemy Lean Six Sigma Green Belt Online in-view
+-  Tailoring. Source for materials, create designs and sew outfits from start to finish for clients
+
 
 
 __VETIVA CAPITAL LIMITED,__ Lagos, Nigeria
