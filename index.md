@@ -44,7 +44,7 @@ Microsoft Power BI
 
 __Lynnwood WA__
 
-Motherhood `2018-2020`
+Stay-home-parent `2018-2020`
 
 
 -  Stay at home parent.  Relocated from Lagos, Nigeria to Lynnwood WA where I gave birth to my two kids.
