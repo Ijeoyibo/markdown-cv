@@ -27,18 +27,18 @@ Program and project management leader with technical depth and passion for data 
 ### CORE COMPETENCIES
 
 Microsoft Power BI 
-|| Business  Intelligence || Data Analysis || Data Visualization 
-|| Business Process Re-engineering || Project Management 
-|| SQL Querying || SQL Server Reporting Services (SSRS) 
-|| Data Warehousing || Data Mining || Data Integration 
-|| Extract, Transform and Load (ETL) || Problem Solving/Attention to Detail 
-|| Tableau || QlikView || OLAP || SQL Server Integration Services (SSIS) 
-|| SharePoint || MSOffice Suite || Crystal Reporting Tool 
-|| Presentation Skills|| Microsoft Visio || Team work 
-|| Honesty || Reliable || Can-do-attitude || Goal-oriented 
-|| Execution-Oriented || Excellent Collaboration 
-|| SQL Server Analysis Services Tabular
-|| Python || Python Data Analytics
+| Business  Intelligence | Data Analysis | Data Visualization 
+| Business Process Re-engineering | Project Management 
+| SQL Querying | SQL Server Reporting Services (SSRS) 
+| Data Warehousing | Data Mining | Data Integration 
+| Extract, Transform and Load (ETL) | Problem Solving/Attention to Detail 
+| Tableau | QlikView | OLAP | SQL Server Integration Services (SSIS) 
+| SharePoint | MSOffice Suite | Crystal Reporting Tool 
+| Presentation Skills| Microsoft Visio | Team work 
+| Honesty | Reliable | Can-do-attitude | Goal-oriented 
+| Execution-Oriented | Excellent Collaboration 
+| SQL Server Analysis Services Tabular
+| Python | Python Data Analytics
 
 ### EXPERIENCES
 
