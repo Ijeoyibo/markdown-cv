@@ -111,7 +111,7 @@ Data Analyst `2008-2012`
 
 -  Set up Interswitch Uganda, built reports and upgraded their system. This switching company is number one in the Uganda market and has yielded over Million Naira
 -  Developed report using Crystal Reporting for all 30 banks in Nigeria and provided these reports on daily basis. These reports comprise of 10 different products which helped decision makers to have a view on the market and made better decisions.
--  Analyzed and report on banks metrics (e.g., weekly, monthly, quarterly, annually), answering descriptive questions as well as making predictions. 
+-  Analyzed and report on banks metrics (e.g., weekly, monthly, quarterly, annually), answering descriptive questions as well as making predictions and use excel tool to provide competitive analysis and identify trends within banks. 
 -  Worked in partnership with other team members to conduct planned and ad-hoc analyses and data visualizations, complete with insights and recommendations.
 -  Performed MasterCard Terminal Integration Process Tests and Production
 -  Achieved 99.999% availability and performance of the InterSwitch Switching Platform that yield millions (N) for the organization
