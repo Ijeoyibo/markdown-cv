@@ -42,6 +42,13 @@ Microsoft Power BI
 
 ### EXPERIENCES
 
+__Microsoft,__ Redmond, WA
+
+Business Program Manager `2021-Present`
+-  Drive supplier onboarding by screening all external vendors for appropriate compliance and improve processes within CO+I Business Operations.
+
+
+
 __Lynnwood WA__
 
 Stay-home-parent `2018-2020`
